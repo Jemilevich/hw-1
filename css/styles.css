@@ -42,10 +42,6 @@ a {
 }
 
 .big-title {
-  width: 696px;
-  height: 120px;
-  left: 452px;
-  top: 280px;
   color: #ffff;
   font-weight: 900;
   font-size: 44px;
@@ -204,12 +200,7 @@ a {
   letter-spacing: 0.03em;
 }
 .our-team-photo-1 {
-  width: 270px;
-  height: 260px;
-  left: 215px;
-  top: 1635px;
-  background: url(4853.jpg);
-  border-radius: 0px;
+  background: #f5f4fa;
 }
 .our-team-photo-2 {
   width: 270px;
@@ -306,30 +297,18 @@ a {
   background: #2f303a;
 }
 .our-name {
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 2157px;
   font-size: 26px;
   line-height: 1.19em;
   letter-spacing: 0.03em;
   color: #2196f3;
 }
 .our-adress {
-  width: 231px;
-  height: 21px;
-  left: 215px;
-  top: 2208px;
   font-size: 14px;
   line-height: 1.71em;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
 .our-male {
-  width: 231px;
-  height: 21px;
-  left: 215px;
-  top: 2238px;
   font-size: 14px;
   line-height: 1.71em;
   letter-spacing: 0.03em;
