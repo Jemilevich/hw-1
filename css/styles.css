@@ -196,34 +196,15 @@ a {
   color: #212121;
 }
 
-.our-team-profesionals-position-1 {
+.our-team-profesionals-position {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.18em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
 }
-.our-team-profesionals-position-2 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
-.our-team-profesionals-position-3 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
-.our-team-profesionals-position-4 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
+
 .about-us {
   width: 1600px;
   height: 252px;
