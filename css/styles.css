@@ -48,6 +48,10 @@ a {
 }
 
 .big-title {
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
   color: #ffff;
   font-weight: 900;
   font-size: 44px;
