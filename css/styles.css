@@ -2,6 +2,7 @@
   --main-title-color: #fff;
   --second-title-color: #212121;
   --third-title-color: #2196f3;
+  --description-color: #757575;
 }
 
 body {
@@ -346,4 +347,7 @@ a {
 }
 .adress {
   color: var(--main-title-color);
+}
+.portfolio-item-name {
+  color: var(--description-color);
 }
