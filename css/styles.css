@@ -351,3 +351,6 @@ a {
 .portfolio-item-name {
   color: var(--description-color);
 }
+.about-all {
+  background-color: var(--third-title-color);
+}
