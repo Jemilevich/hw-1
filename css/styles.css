@@ -14,6 +14,10 @@ ul {
 link,
 a {
   text-decoration: none;
+  cursor: pointer;
+}
+.button {
+  cursor: pointer;
 }
 
 .header-item {
@@ -28,7 +32,9 @@ a {
 .studio {
   color: var(--third-title-color);
 }
-
+.portfolio {
+  color: var(--second-title-color);
+}
 .our-tell {
   color: #757575;
 }
@@ -329,5 +335,11 @@ a {
   color: #ffffff 60%;
 }
 .studio-name-1 {
+  color: var(--main-title-color);
+}
+.studio-name-2 {
+  color: var(--main-title-color);
+}
+.adress {
   color: var(--main-title-color);
 }
