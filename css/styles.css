@@ -187,34 +187,15 @@ a {
   top: 1543px;
 }
 
-.our-team-profesionals-1 {
+.our-team-profesionals {
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.18em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
 }
-.our-team-profesionals-2 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #212121;
-}
-.our-team-profesionals-3 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #212121;
-}
-.our-team-profesionals-4 {
-  font-size: 16px;
-  line-height: 1.18em;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #212121;
-}
+
 .our-team-profesionals-position-1 {
   font-size: 16px;
   line-height: 1.18em;
@@ -269,6 +250,7 @@ a {
   color: rgba(255, 255, 255, 0.6);
 }
 .our-phone {
+  font-weight: normal;
   font-size: 14px;
   line-height: 1.71em;
   letter-spacing: 0.03em;
