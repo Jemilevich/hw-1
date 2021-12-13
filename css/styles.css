@@ -56,10 +56,6 @@ a {
 }
 
 .big-title {
-  width: 696px;
-  height: 120px;
-  left: 452px;
-  top: 280px;
   color: #ffff;
   font-weight: 900;
   font-style: normal;
@@ -89,32 +85,6 @@ a {
   line-height: 1.14em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-.article-about-us-2 {
-  font-size: 14px;
-  line-height: 1.14em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-
-  color: #212121;
-}
-
-.article-about-us-3 {
-  font-size: 14px;
-  line-height: 1.14em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-
-  color: #212121;
-}
-
-.article-about-us-4 {
-  font-size: 14px;
-  line-height: 1.14em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-
-  color: #212121;
 }
 
 .article-about-us-description {
