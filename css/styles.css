@@ -128,29 +128,10 @@ a {
   background: #f5f4fa;
 }
 .our-team-photo-2 {
-  width: 270px;
-  height: 260px;
-  left: 515px;
-  top: 1635px;
   background: url(5844.jpg);
   border-radius: 0px;
 }
-.our-team-photo-3 {
-  width: 270px;
-  height: 260px;
-  left: 815px;
-  top: 1635px;
-  background: url(16166.jpg);
-  border-radius: 0px;
-}
-.our-team-photo-4 {
-  width: 270px;
-  height: 260px;
-  left: 1115px;
-  top: 1635px;
-  background: url(2968.jpg);
-  border-radius: 0px;
-}
+
 .our-team-profesionals {
   width: 264px;
   height: 42px;
@@ -239,4 +220,11 @@ a {
   font-size: 14px;
   line-height: 1.14em;
   letter-spacing: 0.02em;
+}
+.footer-contacts {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71em;
+  letter-spacing: 0.03em;
 }
