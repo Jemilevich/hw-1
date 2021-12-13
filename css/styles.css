@@ -233,3 +233,10 @@ a {
   font-size: 16px;
   line-height: 1.6em;
 }
+.header-list {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14em;
+  letter-spacing: 0.02em;
+}
