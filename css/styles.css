@@ -69,15 +69,19 @@ a {
 }
 
 .button {
+  font-family: "Roboto";
+  font-weight: 700;
   width: 200px;
   height: 50px;
   left: 700px;
   top: 430px;
-
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   padding: auto;
+}
+.button-color-text {
+  color: #FFFFF;
 }
 
 .article-about-us-1 {
