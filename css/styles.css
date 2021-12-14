@@ -3,6 +3,7 @@
   --second-title-color: #212121;
   --third-title-color: #2196f3;
   --description-color: #757575;
+  --white-title-color: #ffffff;
 }
 
 body {
@@ -55,7 +56,7 @@ a {
 }
 
 .big-title {
-  color: #ffff;
+  color: var(--white-title-color);
   font-weight: 900;
   font-style: normal;
   font-size: 44px;
@@ -64,12 +65,11 @@ a {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
-.button-form {
-}
 
 .button {
   font-family: "Roboto";
   font-weight: 700;
+  color: var(--white-title-color);
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -83,6 +83,12 @@ a {
   line-height: 1.14em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+.title-description {
+  font-size: 14px;
+  line-height: 1.14em;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
 
 .article-about-us-description {
@@ -106,7 +112,7 @@ a {
   height: 368px;
   left: 215px;
   top: 1635px;
-  background: #ffffff;
+  background: var(--white-title-color);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
@@ -172,7 +178,7 @@ a {
   font-size: 14px;
   line-height: 1.71em;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: var(--white-title-color);
 }
 .our-male {
   font-size: 14px;
