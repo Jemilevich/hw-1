@@ -43,10 +43,9 @@ a {
 .portfolio {
   color: var(--second-title-color);
 }
-.our-tell {
-  color: #757575;
+.header-phone {
+  color: var(--description-color);
 }
-
 .about-our-decisions {
   width: 1600px;
   height: 600px;
@@ -76,7 +75,9 @@ a {
   border-radius: 4px;
   padding: auto;
 }
-
+.button-color-text {
+  color: #ffffff;
+}
 .article-about-us-1 {
   font-size: 14px;
   line-height: 1.14em;
@@ -187,9 +188,6 @@ a {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.our-contacts-footer {
-  color: #ffffff 60%;
-}
 .studio-name-1 {
   color: var(--main-title-color);
 }
@@ -203,6 +201,12 @@ a {
   color: var(--description-color);
 }
 .about-all {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6em;
+  letter-spacing: 0.03em;
+  margin: auto;
   background-color: var(--third-title-color);
 }
 .portfolio-filer {
@@ -210,6 +214,9 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6em;
+  letter-spacing: 0.03em;
+  background: #f5f4fa;
+  margin: auto;
 }
 .header-list {
   font-family: "Roboto";
@@ -224,4 +231,7 @@ a {
   font-size: 14px;
   line-height: 1.71em;
   letter-spacing: 0.03em;
+}
+.our-tell {
+  color: rgba(255, 255, 255, 0.6);
 }
