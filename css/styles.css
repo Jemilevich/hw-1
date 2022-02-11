@@ -38,6 +38,9 @@ a {
 .studio-name {
   color: var(--third-title-color);
 }
+.studio-name-header {
+  color: var(--second-title-color);
+}
 .studio {
   color: var(--third-title-color);
 }
@@ -240,4 +243,10 @@ a {
 }
 .our-tell {
   color: rgba(255, 255, 255, 0.6);
+}
+.portfolio-header-list-1 {
+  color: var(--third-title-color);
+}
+.portfolio-header-list {
+  color: var(--second-title-color);
 }
