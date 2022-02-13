@@ -101,6 +101,15 @@ a {
   letter-spacing: 0.03em;
   color: #757575;
 }
+.second-titles {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+  color: var(--second-title-color);
+}
 
 .our-possibilities {
   font-size: 36px;
